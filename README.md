@@ -8,3 +8,10 @@ R script, raw data, cleaned data, and report for a project to predict fake news
 
 ## Overview
 Kate and Gabriel worked to predict fake news according to a Kaggle competition. The purpose of this exercise is to train Kate in some collaborative data science topics.
+
+## File Structure
+
+- Raw data in `rawData/`
+- Cleaned data in `cleanedData/`
+- Python and R scripts in `Code/`
+- Jupyter and Rmarkdown reports in `Reports/`
